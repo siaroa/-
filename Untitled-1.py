@@ -14,5 +14,5 @@ async def on_message(message):
         await message.author.send ("{} | {}, User, Hello".format(message.author, message.author.mention))
 
 # 봇을 실행시키기 위한 토큰을 작성해주는 곳
-client.run('OTI4NDMwMzU3NTA4OTMxNjM0.YdYqJg.RoxtIFL6Nm0YeT9f5VMrLsx4bt8')
+client.run('OTI4NDMwMzU3NTA4OTMxNjM0.YdYqJg.kzmFgYu5sBBCG0HVPYob35S64f0')
 
